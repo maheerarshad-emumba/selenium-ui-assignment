@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-27T12:19:28 PKT" name="MySuite" finished-at="2024-08-27T12:20:22 PKT" duration-ms="53677">
+    <groups>
+    </groups>
+    <test started-at="2024-08-27T12:19:28 PKT" name="BaseTests" finished-at="2024-08-27T12:20:22 PKT" duration-ms="53677">
+      <class name="inviteUsersModal.inviteUsersTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:inviteUsersModal.inviteUsersTest@576d5deb]" started-at="2024-08-27T12:19:29 PKT" name="setUp" finished-at="2024-08-27T12:20:06 PKT" duration-ms="37636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUpPage()[pri:0, instance:inviteUsersModal.inviteUsersTest@576d5deb]" started-at="2024-08-27T12:20:06 PKT" name="setUpPage" finished-at="2024-08-27T12:20:08 PKT" duration-ms="1484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method signature="smokeTestingInviteUserModalOpening()[pri:1, instance:inviteUsersModal.inviteUsersTest@576d5deb]" started-at="2024-08-27T12:20:08 PKT" name="smokeTestingInviteUserModalOpening" finished-at="2024-08-27T12:20:09 PKT" duration-ms="951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smokeTestingInviteUserModalOpening -->
+        <test-method signature="smokeTestingCancelButtonWorking()[pri:2, instance:inviteUsersModal.inviteUsersTest@576d5deb]" started-at="2024-08-27T12:20:09 PKT" name="smokeTestingCancelButtonWorking" finished-at="2024-08-27T12:20:09 PKT" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smokeTestingCancelButtonWorking -->
+        <test-method signature="smokeTestingCrossButtonWorking()[pri:3, instance:inviteUsersModal.inviteUsersTest@576d5deb]" started-at="2024-08-27T12:20:09 PKT" name="smokeTestingCrossButtonWorking" finished-at="2024-08-27T12:20:19 PKT" duration-ms="10102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smokeTestingCrossButtonWorking -->
+        <test-method signature="smokeTestingEmailField()[pri:4, instance:inviteUsersModal.inviteUsersTest@576d5deb]" started-at="2024-08-27T12:20:19 PKT" name="smokeTestingEmailField" finished-at="2024-08-27T12:20:19 PKT" duration-ms="540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smokeTestingEmailField -->
+        <test-method signature="smokeTestingInviteUserButton()[pri:5, instance:inviteUsersModal.inviteUsersTest@576d5deb]" started-at="2024-08-27T12:20:19 PKT" name="smokeTestingInviteUserButton" finished-at="2024-08-27T12:20:20 PKT" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smokeTestingInviteUserButton -->
+        <test-method signature="flowTestInviteUser()[pri:6, instance:inviteUsersModal.inviteUsersTest@576d5deb]" started-at="2024-08-27T12:20:20 PKT" name="flowTestInviteUser" finished-at="2024-08-27T12:20:22 PKT" duration-ms="2070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flowTestInviteUser -->
+      </class> <!-- inviteUsersModal.inviteUsersTest -->
+    </test> <!-- BaseTests -->
+  </suite> <!-- MySuite -->
+</testng-results>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BaseTests"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="14.517">
+  <properties />
+  
+  
+            <testcase name="smokeTestingEmailField" time="0.540" classname="inviteUsersModal.inviteUsersTest" />
+                <testcase name="smokeTestingCancelButtonWorking" time="0.192" classname="inviteUsersModal.inviteUsersTest" />
+                <testcase name="smokeTestingInviteUserModalOpening" time="0.951" classname="inviteUsersModal.inviteUsersTest" />
+                <testcase name="flowTestInviteUser" time="2.070" classname="inviteUsersModal.inviteUsersTest" />
+                <testcase name="smokeTestingInviteUserButton" time="0.662" classname="inviteUsersModal.inviteUsersTest" />
+                <testcase name="smokeTestingCrossButtonWorking" time="10.102" classname="inviteUsersModal.inviteUsersTest" />
+      
+</testsuite>
